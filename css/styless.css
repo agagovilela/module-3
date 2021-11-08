@@ -1,0 +1,50 @@
+@media (min-width: 992px) {
+    
+    #navbarNav{
+        display: none !important;
+    } 
+ 
+  
+ 
+ }
+ 
+ 
+ @media (min-width: 768px){
+     .navbar-toggler{
+     display: none !important;
+ }}
+ 
+ 
+ #content{
+     margin-top: 50px;
+ }
+ 
+ 
+ 
+ nav{
+     top: 0;
+     overflow: hidden !important;
+     position: fixed !important;
+     width: 100% !important;
+     
+ }
+ header h2{
+     margin: 15px;
+ }
+ 
+ header,h1{
+     text-align: center;
+ }
+ .row{
+ 
+ text-align: center;
+ 
+ }
+ 
+ div div div div div{
+     padding: 10px !important;
+     margin-bottom: 5px;
+     margin-top: 5px;
+     background: gray;
+ 
+ }
